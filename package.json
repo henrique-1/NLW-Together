@@ -1,5 +1,5 @@
 {
-  "name": "NextLevelWeekNode",
+  "name": "NLWTogetherNodeJS",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "class-transformer": "^0.4.0",
     "express": "^4.17.1",
     "express-async-errors": "^3.1.1",
     "jsonwebtoken": "^8.5.1",
